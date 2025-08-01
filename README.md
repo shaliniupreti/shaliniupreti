@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hello, I'm Shalini Upreti
 
-<!--
-**shaliniupreti/shaliniupreti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a 19-year-old Bachelor of Computer Applications (BCA) student who is enthusiastic about programming, cybersecurity, and tech in general.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 About Me
+
+- 💡 Curious and self-motivated learner
+- 🧠 Currently learning: Python, JavaScript, and SQL
+- 🔐 Interested in: Cybersecurity, Ethical Hacking, Web Development
+- 🛠️ Tools I use: VS Code, Git & GitHub, Figma, Canva, pycharm
+
+---
+
+## 🚀 Goals
+
+- ✔️ Build real-world projects
+- ✔️ Contribute to open-source
+- ✔️ Get an internship in cybersecurity 
+
+---
+
+## 🌐 Connect With Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/shalini-upreti-13677930b/)
+- 📧 Email: (shaliniupreti35@gmail.com)
+
+---
+
