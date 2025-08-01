@@ -1,6 +1,7 @@
 # 👋 Hello, I'm Shalini Upreti
 
-🎓 I'm a 19-year-old Bachelor of Computer Applications (BCA) student who is enthusiastic about programming, cybersecurity, and tech in general.
+🎓 I'm a 19-year-old Bachelor of Computer Applications (BCA) student.
+ I am enthusiast about programming, cybersecurity, and tech in general.
 
 
 ## 🌐 Socials:
